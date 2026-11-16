@@ -6,3 +6,6 @@
 
 # Word lock files
 ~$*.docx
+
+# Word documents - kept locally only
+*.docx
